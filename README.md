@@ -1,2 +1,0 @@
-# semillas
-grupo semillas
